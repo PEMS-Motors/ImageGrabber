@@ -1,0 +1,7 @@
+{
+  "name": "ImageGrabber",
+  "version": "1.0.0.0",
+  "dependencies": {
+    "download": "^7.1.0"
+  }
+}
